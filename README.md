@@ -49,8 +49,8 @@ Open the Telecom-Churn-Final.ipynb file in the notebook interface.
 Type `deactivate`
 
 ## Future Enhancements
--Explore more complex models and feature engineering techniques to further improve the prediction accuracy.
--Investigate the impact of other client services and features on churn rates.
+- Explore more complex models and feature engineering techniques to further improve the prediction accuracy.
+- Investigate the impact of other client services and features on churn rates.
 
 ## Credits and Acknowledgments
 Data provided by TripleTen.
