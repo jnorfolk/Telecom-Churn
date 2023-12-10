@@ -1,5 +1,8 @@
 # Interconnect Telecom Churn Prediction
 
+## Link to Project Notebook
+[Notebook](https://github.com/jnorfolk/Telecom-Churn/blob/main/Telecom-Churn-Final.ipynb)
+
 ## Project Description
 ### Overview
 This project aims to forecast client churn for the telecom operator Interconnect. Utilizing client data, the goal is to identify potential churners early to offer them special deals and promotions, thereby reducing churn rates.
