@@ -19,6 +19,9 @@ Interconnect provides various telecom services, including landline communication
 - The final model achieved an AUC-ROC score of 0.90, indicating high accuracy in predicting user churn.
 - Identified key churn indicators: tenure less than 1000 days, month-to-month contracts, and fiber optic internet service users.
 
+### Feature Importances
+![image](https://github.com/jnorfolk/Telecom-Churn/assets/117448822/86ff7e44-9a16-435e-8410-5fdfcdb77715)
+
 ## Conclusions and Business Implications
 - Effective prediction of potential churn allows for targeted promotional strategies.
 - Recommendations include focusing retention efforts on users within the identified high-risk categories.
