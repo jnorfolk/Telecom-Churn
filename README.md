@@ -46,7 +46,7 @@ pip install pandas numpy scikit-learn matplotlib
 #### 4. Run the Jupyter Notebook
 Install Jupyter Notebook: `pip install notebook`
 Then launch it: `jupyter notebook`
-Open the Telecom-Churn-Final.ipynb file in the notebook interface.
+Open the `Telecom-Churn-Final.ipynb` file in the notebook interface.
 
 #### 5. Deactivate the Virtual Environment (After Use)
 Type `deactivate`
